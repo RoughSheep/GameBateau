@@ -1,3 +1,3 @@
 # GameBateau
 
-hello world
+hello world!
